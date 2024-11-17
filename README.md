@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I’m a web developer passionate about modern tech
 
 ## Projects 🚀
 
-- **Fantasy Football Project:** An app simulating a fantasy football game where users can create leagues, manage teams, and assign scores to players.
+- **FantaApp:** An app simulating a fantasy football game where users can create leagues, manage teams, and assign scores to players.
 - **E-commerce Clone with React:** A clone of a modern e-commerce website built with React, featuring product listing, cart management, and checkout functionality.
 - **Netflix Clone with HTML, CSS, and Bootstrap:** A Netflix-inspired clone built using HTML, CSS, and Bootstrap, focusing on responsive design and user-friendly layout.
 
