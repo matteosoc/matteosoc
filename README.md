@@ -1,6 +1,6 @@
 # Hello! I’m Matteo 👋
 
-Welcome to my GitHub profile! I’m a web developer passionate about modern technologies and innovative solutions. I completed a 6-month part-time **Web Development** course with **Epicode**, and I’m excited to apply my skills in real-world projects. I love creating solutions that enhance user experiences and optimize business processes. 
+Welcome to my GitHub profile! I’m a web developer passionate about modern technologies and innovative solutions. I completed a **Web Development** course with **Epicode**, and I’m excited to apply my skills in real-world projects. I love creating solutions that enhance user experiences and optimize business processes. 
 
 ## What I Do 🔧
 
