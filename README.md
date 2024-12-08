@@ -4,14 +4,13 @@ Welcome to my GitHub profile! I’m a web developer passionate about modern tech
 
 ## What I Do 🔧
 
-- **Frontend Development:** Expertise in **HTML**, **CSS**, **JavaScript**, and **React**, with a passion for building modern and responsive user interfaces.
+- **Frontend Development:** Expertise in **HTML**, **CSS**, **JavaScript**, **TypeScript**, **Angular** and **React**, with a passion for building modern and responsive user interfaces.
 - **Backend Development:** Knowledge of **Node.js**, **Express**, and databases like **MongoDB** to build scalable solutions.
 - **Responsive Design:** Designing mobile and desktop-optimized applications using libraries like **React Bootstrap**.
 - **Project Management:** Experience with GitHub for version control and team collaboration.
 
 ## Currently Learning 📚
 
-- **Angular:** Exploring the fundamentals of this powerful front-end framework to build dynamic single-page applications.
 - **Laravel:** Diving into this PHP framework to improve my backend development skills and work on full-stack solutions.
 
 ## Projects 🚀
@@ -22,7 +21,7 @@ Welcome to my GitHub profile! I’m a web developer passionate about modern tech
 
 ## Technical Skills ⚙️
 
-- **Frontend:** HTML, CSS, JavaScript, React, React Bootstrap
+- **Frontend:** HTML, CSS, JavaScript, React, React Bootstrap, TypeScript, Angular
 - **Backend:** Node.js, Express, MongoDB
 - **Version Control Tools:** Git, GitHub
 - **Development Methodologies:** Agile, Git Flow
